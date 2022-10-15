@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<conio.h>
+/*
+number > 0---> positive
+number < 0---> negative
+number = 0---> neither positive nor negative
+*/
+void main()
+{
+	int number;
+	printf("Enter number\n");
+	scanf("%d", &number);
+	if (number>0){
+		printf("Number is positive");
+		}else if (number < 0){
+			printf("Number is negative");
+			}else{
+				printf("Number is zero");
+
+			}
+getch();
+}
+
+

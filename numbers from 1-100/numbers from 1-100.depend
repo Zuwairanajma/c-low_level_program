@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665834275 source:c:\users\my pc\desktop\python_practice\numbers from 1-100\main.c
+	<stdio.h>
+	<stdlib.h>
+
